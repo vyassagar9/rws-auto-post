@@ -1,0 +1,8 @@
+{
+  "name": "rws-auto-post",
+  "version": "1.0.0",
+  "description": "Auto social media poster for Rudraksh Web Institute",
+  "dependencies": {
+    "@vercel/og": "^0.6.2"
+  }
+}
